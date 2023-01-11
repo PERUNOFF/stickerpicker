@@ -1,6 +1,10 @@
 {
   "packs": [
-    "saintslolkek.json"
+    "saintslolkek.json",
+    "1.json",
+    "2.json",
+    "3.json",
+    "4.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
